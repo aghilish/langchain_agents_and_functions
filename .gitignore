@@ -1,0 +1,6 @@
+.env
+__pycache__
+emb
+tools/__pycache__
+handlers/__pycache__
+*.html
